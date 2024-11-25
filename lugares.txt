@@ -1,0 +1,120 @@
+Azul
+Bahía Blanca
+Benito Juárez
+Bolívar
+Campo de Mayo
+Coronel Suarez
+Dolores
+El Palomar
+Ezeiza
+Junín
+La Plata
+Las Flores
+Mar del Plata
+Mariano Moreno
+Merlo
+Morón
+Nueve de Julio
+Olavarría
+Pehuajó
+Pigué
+Punta Indio B.A.
+San Fernando
+Tandil
+Trenque Lauquen
+Tres Arroyos
+Villa Gesell
+Aeroparque Buenos Aires
+Buenos Aires
+Catamarca
+Tinogasta
+Pcia. Roque Saenz Peña
+Resistencia
+Comodoro Rivadavia
+Esquel
+Paso De Indios
+Puerto Madryn
+Trelew
+Córdoba
+Córdoba Observatorio
+Esc. Aviación Militar
+Laboulaye
+Marcos Juárez
+Pilar Obs.
+Río Cuarto
+Villa Dolores
+Villa María Del Río Seco
+Corrientes
+Ituzaingó
+Mercedes
+Monte Caseros
+Paso De Los Libres
+Concordia
+Gualeguaychú
+Paraná
+Formosa
+Las Lomitas
+Mount Pleasant Airport (Islas Malvinas)
+La Quiaca
+Jujuy
+Jujuy Universidad Nacional
+General Pico
+Victorica
+Santa Rosa
+Chamical
+Chepes
+Chilecito
+La Rioja
+Malargue
+Mendoza
+Mendoza Observatorio
+San Martín (Mza)
+San Rafael
+Uspallata
+Bernardo De Irigoyen
+Iguazú
+Oberá
+Posadas
+Chapelco
+Neuquén
+Bariloche
+El Bolsón
+Maquinchao
+Río Colorado
+San Antonio Oeste
+Viedma
+Metán
+Orán
+Rivadavia
+Salta
+Tartagal
+Jachal
+San Juan
+San Luis
+Santa Rosa del Conlara
+Villa Reynolds
+El Calafate
+Gobernador Gregores
+Perito Moreno
+Puerto Deseado
+Río Gallegos
+San Julián
+Santa Cruz
+Ceres
+Rafaela
+Reconquista
+Rosario
+Santa Fe
+Sunchales
+Venado Tuerto
+Termas de Rio Hondo
+Santiago del Estero
+Río Grande B.A.
+Ushuaia
+Tucumán
+Base Belgrano II
+Base Esperanza
+Base Carlini
+Base Marambio
+Base Orcadas
+Base San Martín
