@@ -2,7 +2,6 @@ Azul
 Bahía Blanca
 Benito Juárez
 Bolívar
-Campo de Mayo
 Coronel Suarez
 Dolores
 El Palomar
@@ -59,11 +58,9 @@ La Quiaca
 Jujuy
 Jujuy Universidad Nacional
 General Pico
-Victorica
 Santa Rosa
 Chamical
 Chepes
-Chilecito
 La Rioja
 Malargue
 Mendoza
@@ -73,7 +70,6 @@ San Rafael
 Uspallata
 Bernardo De Irigoyen
 Iguazú
-Oberá
 Posadas
 Chapelco
 Neuquén
@@ -88,7 +84,6 @@ Orán
 Rivadavia
 Salta
 Tartagal
-Jachal
 San Juan
 San Luis
 Santa Rosa del Conlara
