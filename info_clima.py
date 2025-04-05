@@ -12,7 +12,7 @@ class Clima:
     def __init__(self, ciudad: str):
         self.ciudad = ciudad
         self.ciudad_url = urllib.parse.quote(ciudad) # Convertimos la variable para que sea compatible con la URL (reemplaza espacios)
-        self.API_KEY = "435082c056b34774af2145854253003" # Insertar tu propia API key
+        self.API_KEY = "<<INSERTAR API KEY>>" # Insertar tu propia API key
         self.URL = f"https://api.weatherapi.com/v1/current.json?key={self.API_KEY}&q={self.ciudad_url}&aqi=no&lang=es" # URL de la API 
         self.datos_obtenidos = None # Variable para almacenar la información obtenida
     
